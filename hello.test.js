@@ -5,3 +5,4 @@ test('outputs the correct string', () => {
   expect(hello()).toBe("Hello World!");
 });
 // scanned
+// scanned
